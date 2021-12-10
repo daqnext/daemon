@@ -8,8 +8,8 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/daqnext/daemon"
 	"github.com/robfig/cron"
-	"github.com/takama/daemon"
 )
 
 const (
